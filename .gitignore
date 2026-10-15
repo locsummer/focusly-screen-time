@@ -1,0 +1,25 @@
+# OS & IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+.idea/
+*.iml
+.vscode/
+
+# Xcode & iOS
+xcuserdata/
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.xccheckout
+build/
+
+# Android & Gradle
+.gradle/
+/local.properties
+/build
+/captures
+.externalNativeBuild
+.cxx
